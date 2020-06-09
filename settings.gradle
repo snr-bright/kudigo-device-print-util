@@ -1,0 +1,3 @@
+include ':kudigo-device-print-utils'
+include ':app'
+rootProject.name = "KudiGo Device Print Util"
