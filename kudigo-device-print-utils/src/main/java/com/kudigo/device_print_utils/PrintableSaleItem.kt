@@ -3,6 +3,9 @@ package com.kudigo.device_print_utils
 import java.util.*
 import kotlin.collections.ArrayList
 
+/**
+ * @author
+ */
 class PrintableSaleItem(
     var id: String,
     var customerName: String? = null,
