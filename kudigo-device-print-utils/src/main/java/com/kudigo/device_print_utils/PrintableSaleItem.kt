@@ -4,7 +4,10 @@ import java.util.*
 import kotlin.collections.ArrayList
 
 /**
- * @author
+ * @author Bright Ahedor
+ * @constructor PrintableSaleItem, with all these params
+ * @param id, a unique identifier of the print, it is used as the number of the receipt
+ * @param
  */
 class PrintableSaleItem(
     var id: String,
